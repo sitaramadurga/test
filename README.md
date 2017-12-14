@@ -1,1 +1,1 @@
-# test Example
+# test Example for beginners
